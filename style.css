@@ -450,12 +450,6 @@ body {
     text-decoration: none;
 }
 
-.img-perfil{
-    height: 220px;
-    border-radius: 10px;
-    margin-bottom: 23px;
-}
-
 .redirecionamento {
     color: #000;
     text-decoration: none;
@@ -478,5 +472,11 @@ body {
         padding-top: 100px;
         padding-bottom: -130px;
         height: 1500px;
+    }
+
+    .img-perfil{
+        height: 220px;
+        border-radius: 10px;
+        margin-bottom: 23px;
     }
 }
