@@ -455,6 +455,12 @@ body {
     text-decoration: none;
 }
 
+.aluno img{
+    width: 220px;
+    border-radius: 10px;
+    margin-bottom: 23px;
+}
+
 
 @media only screen and (max-width: 1286px) {
     .card {
@@ -472,11 +478,5 @@ body {
         padding-top: 100px;
         padding-bottom: -130px;
         height: 1500px;
-    }
-
-    .img-perfil{
-        height: 220px;
-        border-radius: 10px;
-        margin-bottom: 23px;
     }
 }
